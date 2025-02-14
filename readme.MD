@@ -11,11 +11,11 @@ kubectl create namespace roboshop
 ```
 
 ```
-git clone https://github.com/Lingaiahthammisetti/13.6.roboshop-redis.git
+git clone https://github.com/Lingaiahthammisetti/13.10.roboshop-redis.git
 ```
 
 ```
-cd 13.6.roboshop-redis/
+cd 13.10.roboshop-redis/
 ```
 
 ```
